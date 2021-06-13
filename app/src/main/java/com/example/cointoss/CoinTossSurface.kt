@@ -17,6 +17,9 @@ import kotlinx.coroutines.Job
 import kotlinx.coroutines.launch
 import kotlin.random.Random
 
+/**
+ * 失礼しました、練習用ファイルです。
+ */
 class CoinTossSurface @JvmOverloads constructor(
     context: Context,
     attrs: AttributeSet? = null,
