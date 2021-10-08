@@ -20,7 +20,8 @@ import kotlin.random.Random
 /**
  * 失礼しました、練習用ファイルです。
  */
-class CoinTossSurface @JvmOverloads constructor(
+class
+CoinTossSurface @JvmOverloads constructor(
     context: Context,
     attrs: AttributeSet? = null,
     defStyleAttr: Int = 0
