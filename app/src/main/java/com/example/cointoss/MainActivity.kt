@@ -37,7 +37,7 @@ class MainActivity : AppCompatActivity() {
         button.setOnClickListener {
             //アニメーションが終わるまで非表示にするため
             msg.scaleX= 0F
-            //ギットの練習として。
+            //ギットの練習として。現在のバージョンは1.0です。
             when(Random.nextBoolean()){
                 true -> msg.text = "オモテ"
                 else -> msg.text = "ウラ"
