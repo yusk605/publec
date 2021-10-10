@@ -13,6 +13,7 @@ import kotlin.random.Random
 
 /**
  * @author コイントスに判断をゆだねるもの。
+ * master ギットの勉強として確認事項を行います。
  */
 class MainActivity : AppCompatActivity() {
 
