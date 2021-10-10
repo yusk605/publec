@@ -13,6 +13,7 @@ import kotlin.random.Random
 
 /**
  * @author コイントスに判断をゆだねるもの。
+ * こっちはvr_1.0です
  */
 class MainActivity : AppCompatActivity() {
 
